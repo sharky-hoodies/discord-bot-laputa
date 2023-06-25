@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-laputa",
+  "version": "0.1",
+  "description": "It is template of Discord.js v14.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.0",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharky-hoodies/discord-bot-laputa.git"
+  },
+  "author": "sharky_hoodies (https://github.com/sharky-hoodies)",
+  "license": "MIT"
+}
